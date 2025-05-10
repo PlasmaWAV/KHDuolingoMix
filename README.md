@@ -53,6 +53,8 @@ Replace the KH1Movie folder with the one from the downloaded ZIP, overwriting al
 
 Enjoy!
 
+(If you still have any doubts, check this tutorial: https://www.youtube.com/watch?v=9wqvhtalieU)
+
 # ESPAÑOL
 
 Este mod reemplaza todos los archivos de voz en inglés correspondientes a los personajes de Square Enix por los de su doblaje oficial en japonés. Los personajes originales de Disney seguirán hablando en inglés.
@@ -103,6 +105,6 @@ Cambia el nombre de la carpeta "KH1Movie" a "KH1MovieBackup". De este modo, tend
 
 5. ¡A disfrutar!
 
-
+(Si aun tienes dudas, mirate este tutorial paso a paso: https://www.youtube.com/watch?v=Xuy0JG9jmXk)
 
 
