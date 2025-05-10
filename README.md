@@ -72,9 +72,9 @@ https://github.com/OpenKH/OpenKh
 
 3. Ve a Mods -> Install a new mod y pega lo siguiente: "PlasmaWAV/KHDuolingoMix" (sin las comillas)
 
-2.En Mod Loader, selecciona Build and Run (o Build Only).
+4 .En Mod Loader, selecciona Build and Run (o Build Only).
 
-4. ¡Disfruta!
+5. ¡Disfruta!
 
 - ⚙️ KH PC Patch Manager (método antiguo):
 
