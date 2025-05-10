@@ -2,10 +2,9 @@
 
 # ENGLISH
 
-🎌💂 Kingdom Hearts Final Mix with Dual Audio
 This mod replaces all English voice files for Square Enix characters with their official Japanese voiceovers. Original Disney characters will still speak in English.
 
-THEATER MODE STILL IN DEVELOPMENT.
+# THEATER MODE STILL IN DEVELOPMENT.
 
 ⚙️ Installation Instructions
 OpenKH (preferred method):
@@ -58,7 +57,7 @@ Enjoy!
 
 Este mod reemplaza todos los archivos de voz en inglés correspondientes a los personajes de Square Enix por los de su doblaje oficial en japonés. Los personajes originales de Disney seguirán hablando en inglés.
 
-MODO TEATRO AÚN EN DESARROLLO.
+# MODO TEATRO AÚN EN DESARROLLO.
 
 # ⚙️ Instrucciones de instalación
 
