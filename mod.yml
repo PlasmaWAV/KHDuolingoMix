@@ -4031,10 +4031,6 @@ assets:
   method: copy
   source:
   - name: remastered/voice/event/tz/tz_007.vset/tz0304sr.win32.scd
-- name: remastered/voice/event/tz/tz_007.vset/tz0305tz.win32.scd
-  method: copy
-  source:
-  - name: remastered/voice/event/tz/tz_007.vset/tz0305tz.win32.scd
 - name: remastered/voice/event/tz/tz_007.vset/tz0306sr.win32.scd
   method: copy
   source:
