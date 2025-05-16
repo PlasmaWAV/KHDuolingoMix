@@ -1119,14 +1119,6 @@ assets:
   method: copy
   source:
   - name: remastered/voice/event/al/al_207.vset/al1701sr.win32.scd
-- name: remastered/voice/event/aw/aw_001.vset/aw0101wr.win32.scd
-  method: copy
-  source:
-  - name: remastered/voice/event/aw/aw_001.vset/aw0101wr.win32.scd
-- name: remastered/voice/event/aw/aw_001.vset/aw0102wr.win32.scd
-  method: copy
-  source:
-  - name: remastered/voice/event/aw/aw_001.vset/aw0102wr.win32.scd
 - name: remastered/voice/event/aw/aw_003.vset/aw0301sr.win32.scd
   method: copy
   source:
